@@ -1,4 +1,4 @@
-﻿[📌 Overview
+﻿📌 Overview
 This project explores the key drivers of housing prices in Mexico using a dataset of over 21,000 🏠 Housing Prices in Mexico - Data Science Project
 property listings. The main goal is to determine whether property size or location plays a more significant role in determining property prices. The entire analysis was done in Python using Jupyter Notebooks, following a full data science process
 
@@ -39,4 +39,4 @@ Ongoing (more models and visualizations to be added).
 ✍️ Author
 Concilia Kemunto
 
-]
+
