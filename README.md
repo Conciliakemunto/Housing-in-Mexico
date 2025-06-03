@@ -12,10 +12,10 @@ property listings. The main goal is to determine whether property size or locati
 •    Summary statistics for price, size, and location variables  
 •    Correlation heatmaps and visualizations (histograms, box plots, scatter plots)  
 •    Price distribution by city and property type  
-3. Feature Engineering
-•    Created new variables: price per square meter, region-based location encoding    
-4. Modeling
-•    Linear Regression models to estimate the relationship between housing price, size, and location   
+3. Feature Engineering  
+•    Created new variables: price per square meter, region-based location encoding      
+4. Modeling  
+•    Linear Regression models to estimate the relationship between housing price, size, and location     
 •    Performance evaluation using R-squared, MAE, and RMSE    
 •    Discussed and visualized model performance   
 
