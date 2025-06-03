@@ -21,20 +21,20 @@ property listings. The main goal is to determine whether property size or locati
 
 
 
-🛠️ Technologies Used  
-•    Python  
-•    Jupyter Notebook  
-•    pandas, numpy  
-•    matplotlib, seaborn  
-•    scikit-learn  
+🛠️ Technologies Used    
+•    Python    
+•    Jupyter Notebook    
+•    pandas, numpy    
+•    matplotlib, seaborn    
+•    scikit-learn    
 
-📊 Key Insights  
-•    Location shows a stronger correlation with price than property size.  
-•    Major urban areas like Mexico City and Guadalajara exhibit higher average prices.  
-•    Cleaned and transformed dataset is ready for future modeling.  
+📊 Key Insights    
+•    Location shows a stronger correlation with price than property size.    
+•    Major urban areas like Mexico City and Guadalajara exhibit higher average prices.    
+•    Cleaned and transformed dataset is ready for future modeling.    
 
-Project Status
-Ongoing (more models and visualizations to be added).
+Project Status  
+Ongoing (more models and visualizations to be added).  
 
 ✍️ Author
 Concilia Kemunto
